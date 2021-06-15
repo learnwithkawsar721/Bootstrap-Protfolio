@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Area Css Start  */
+.nav_bg {
+  background-color: rgb(76, 0, 141) !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff !important;
+}
+.navbar-collapse {
+  margin-right: auto;
+  text-align: center !important;
+}
+/* Header Area Css End */
